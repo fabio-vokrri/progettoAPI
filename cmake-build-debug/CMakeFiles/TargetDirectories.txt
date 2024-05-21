@@ -1,0 +1,3 @@
+C:/Users/fabio/OneDrive/Coding/C/progetto_API/cmake-build-debug/CMakeFiles/progetto_API.dir
+C:/Users/fabio/OneDrive/Coding/C/progetto_API/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabio/OneDrive/Coding/C/progetto_API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
